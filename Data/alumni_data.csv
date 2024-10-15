@@ -1,0 +1,17 @@
+Survey Type,Question,Alumni Question Number,Answer 1,Answer 2,Answer 3,Answer 4,Answer 5,Total Responses,Weighted Average
+Alumni Survey,Q1 How satisfied were you with the overall quality of the graduate program?,Q1,0,0,1,2,2,5, 4.20 
+Alumni Survey,Q2 How well did the program meet your academic expectations?,Q2,0,1,3,1,0,5, 3.00 
+Alumni Survey,Q3 How would you rate the faculty support and mentorship you received during your time in the program?,Q3,0,1,1,1,2,5, 3.80 
+Alumni Survey,Q4 How satisfied were you with the research opportunities provided during your time in the program?,Q4,1,0,1,2,1,5, 3.40 
+Alumni Survey,Q5 How satisfied were you with the teaching opportunities provided during your time in the program?,Q5,0,0,0,1,4,5, 4.80 
+Alumni Survey,Q6 How would you rate the sense of community among students and faculty during your studies?,Q6,0,1,0,3,1,5, 3.80 
+Alumni Survey,Q7 How well did the program support your mental health and well-being?,Q7,0,0,2,2,1,5, 3.80 
+Alumni Survey,Q8 How well did the program prepare you for your current career or further academic pursuits?,Q8,0,1,0,3,1,5, 3.80 
+Alumni Survey,Q9 How relevant was the curriculum to your professional or academic goals after graduation?,Q9,0,1,0,1,3,5, 4.20 
+Alumni Survey,Q10 How useful were the skills you developed in the program for your current job or academic work?,Q10,0,0,1,1,3,5, 4.40 
+Alumni Survey,Q11 Did the program provide adequate networking opportunities for you to connect with professionals in your field?,Q11,0,1,1,2,1,5, 3.60 
+Alumni Survey,Q12 How well did the program prepare you for real-world applications in your field?,Q12,0,1,1,2,1,5, 3.60 
+Alumni Survey,Q13 How likely are you to recommend this program to someone considering graduate studies in economics?,Q13,0,0,1,2,2,5, 4.20 
+Alumni Survey,Q14 How would you rate the academic rigor of the program's coursework in preparing you for your post-graduate endeavors?,Q14,0,1,1,2,1,5, 3.60 
+Alumni Survey,Q15 How well did the program's curriculum align with the skills and knowledge needed for your current career or studies?,Q15,1,0,0,3,1,5, 3.60 
+Alumni Survey,Q16 How satisfied were you with the opportunities for interdisciplinary studies or collaboration with other departments?,Q16,1,1,2,0,1,5, 2.80 
