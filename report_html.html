@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graduate Survey Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            font-size: 1.5em;
+            text-align: center;
+        }
+        .chart-container {
+            width: 60%;
+            margin: 50px auto;
+        }
+        canvas {
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<h1>Graduate Survey Report</h1>
+
+<!-- Chart 1: Engagement with Coursework -->
+<h2>Q1: How engaged do you feel with your coursework?</h2>
+<div class="chart-container">
+    <canvas id="engagementChart"></canvas>
+</div>
+
+<!-- Chart 2: Feeling Supported -->
+<h2>Q2: How likely are you to feel that you receive adequate support?</h2>
+<div class="chart-container">
+    <canvas id="supportChart"></canvas>
+</div>
+
+<!-- Chart 3: Peer Support -->
+<h2>Q3: How likely are you to feel supported by your peers?</h2>
+<div class="chart-container">
+    <canvas id="peerSupportChart"></canvas>
+</div>
+
+<!-- Chart 4: Program Inclusivity -->
+<h2>Q4: How would you rate the program's inclusivity?</h2>
+<div class="chart-container">
+    <canvas id="inclusivityChart"></canvas>
+</div>
+
+<!-- Chart 5: Access to Health and Wellness -->
+<h2>Q5: How would you rate your access to health and wellness resources?</h2>
+<div class="chart-container">
+    <canvas id="healthWellnessChart"></canvas>
+</div>
+
+<script>
+    // Data for the charts (copied directly from the CSV files)
+    const surveyData = {
+        engagement: {
+            labels: ["No Engagement", "Low Engagement", "Neutral", "Moderate Engagement", "Highly Engaged"],
+            data: [0, 3.13, 15.63, 21.88, 59.38]
+        },
+        support: {
+            labels: ["Very Unlikely", "Somewhat Unlikely", "Neutral", "Somewhat Likely", "Very Likely"],
+            data: [3.13, 0, 12.5, 40.63, 43.75]
+        },
+        peerSupport: {
+            labels: ["Very Unlikely", "Somewhat Unlikely", "Neutral", "Somewhat Likely", "Very Likely"],
+            data: [3.13, 0, 9.38, 25, 62.5]
+        },
+        inclusivity: {
+            labels: ["Very Exclusive", "Somewhat Exclusive", "Neutral", "Somewhat Inclusive", "Very Inclusive"],
+            data: [0, 3.13, 6.25, 21.88, 68.75]
+        },
+        healthWellness: {
+            labels: ["Very Poor", "Poor", "Average", "Good", "Excellent"],
+            data: [3.13, 12.5, 34.38, 34.38, 15.63]
+        }
+    };
+
+    // Function to create bar charts
+    function createBarChart(chartId, labels, data) {
+        const ctx = document.getElementById(chartId).getContext('2d');
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Percentage',
+                    data: data,
+                    backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF'],
+                    borderRadius: 10
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            callback: function(value) {
+                                return value + '%';
+                            }
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(tooltipItem) {
+                                return tooltipItem.raw + '%';
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    // Create charts for each question
+    createBarChart('engagementChart', surveyData.engagement.labels, surveyData.engagement.data);
+    createBarChart('supportChart', surveyData.support.labels, surveyData.support.data);
+    createBarChart('peerSupportChart', surveyData.peerSupport.labels, surveyData.peerSupport.data);
+    createBarChart('inclusivityChart', surveyData.inclusivity.labels, surveyData.inclusivity.data);
+    createBarChart('healthWellnessChart', surveyData.healthWellness.labels, surveyData.healthWellness.data);
+</script>
+
+</body>
+</html>
