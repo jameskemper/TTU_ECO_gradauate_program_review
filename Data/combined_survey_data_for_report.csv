@@ -1,42 +1,289 @@
-﻿Question ID,Survey Type,Question,Graduate Question Number,Answer 1,Answer 2,Answer 3,Answer 4,Answer 5,Total Responses,Weighted Average,Question,Question ID,Answer 1,Answer 2,Answer 3,Answer 4,Answer 5
-G1,Graduate Survey,Q1 How engaged do you feel with your coursework and academic activities?,Q1,0,1,5,7,19,32, 4.38 ,Q1,G1,NO ENGAGEMENT,LOW ENGAGEMENT,NEUTRAL,MODERATELY ENGAGED,HIGHLY ENGAGED
-G2,Graduate Survey,Q2 How likely are you to feel that you receive the support you need to succeed in your coursework and academic activities?,Q2,1,0,4,13,14,32, 4.22 ,Q2,G2,VERY UNLIKELY,SOMEWHAT UNLIKELY,NEITHER LIKELY NOR UNLIKELY,SOMEWHAT LIKELY,VERY LIKELY
-G3,Graduate Survey,Q3 How likely are you to feel supported by your faculty and peers in the program?,Q3,1,0,3,8,20,32, 4.44 ,Q3,G3,VERY UNLIKELY,SOMEWHAT UNLIKELY,NEITHER LIKELY NOR UNLIKELY,SOMEWHAT LIKELY,VERY LIKELY
-G4,Graduate Survey,Q4 How would you rate the program's inclusivity and sense of belonging?,Q4,0,1,2,7,22,32, 4.56 ,Q4,G4,VERY EXCLUSIVE,SOMEWHAT EXCLUSIVE,NEITHER INCLUSIVE NOR EXCLUSIVE,SOMEWHAT INCLUSIVE,VERY INCLUSIVE
-G5,Graduate Survey,Q5 How would you rate your access to health and wellness resources?,Q5,1,4,11,11,5,32, 3.47 ,Q5,G5,VERY POOR,POOR,AVERAGE,GOOD,EXCELLENT
-G6,Graduate Survey,Q6 How often do you feel supported in publishing scholarly works or presenting your work in conferences?,Q6,0,3,12,8,8,31, 3.68 ,Q6,G6,NEVER,RARELY,OCCASIONALLY,OFTEN,VERY OFTEN
-G7,Graduate Survey,Q7 How likely are you to feel supported in developing scholarly practices in this program?,Q7,1,3,2,13,13,32, 4.06 ,Q7,G7,VERY UNLIKELY,SOMEWHAT UNLIKELY,NEITHER LIKELY NOR UNLIKELY,SOMEWHAT LIKELY,VERY LIKELY
-G8,Graduate Survey,Q8 How satisfied are you with your academic success within the program?,Q8,1,2,5,8,16,32, 4.13 ,Q8,G8,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
-G9,Graduate Survey,Q9 How prepared do you feel for the workforce or further education as a result of the program?,Q9,0,0,8,13,10,31, 4.06 ,Q9,G9,VERY UNPREPARED,SOMEWHAT UNPREPARED,NEUTRAL,SOMEWHAT PREPARED,VERY PREPARED
-G10,Graduate Survey,Q10 How manageable do you find the time-to-degree requirements and expectations?,Q10,0,2,10,9,11,32, 3.91 ,Q10,G10,VERY UNMANAGEABLE,SOMEWHAT UNMANAGEABLE,NEUTRAL,SOMEWHAT MANAGEABLE,VERY MANAGEABLE
-G11,Graduate Survey,"Q11 How satisfied are you with the availability of financial aid, scholarships, or assistantships?",Q11,0,6,7,4,14,31, 3.84 ,Q11,G11,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
-G12,Graduate Survey,Q12 How would you rate your access to faculty mentorship and guidance throughout the program?,Q12,0,1,6,9,16,32, 4.25 ,Q12,G12,VERY POOR,POOR,AVERAGE,GOOD,EXCELLENT
-G13,Graduate Survey,Q13 How often do you feel included in departmental decision-making or activities?,Q13,3,3,7,8,11,32, 3.66 ,Q13,G13,NEVER,RARELY,OCCASIONALLY,OFTEN,VERY OFTEN
-G14,Graduate Survey,Q14 How would you rate the balance between academic workload and personal life?,Q14,5,7,7,7,6,32, 3.06 ,Q14,G14,VERY UNBALANCED,SOMEWHAT UNBALANCED,NEUTRAL,SOMEWHAT BALANCED,VERY BALANCED
-G15,Graduate Survey,Q15 How frequently do you face challenges that affect the time it takes to complete your degree requirements?,Q15,2,6,12,8,4,32, 3.19 ,Q15,G15,NEVER,RARELY,OCCASIONALLY,FREQUENTLY,VERY FREQUENTLY
-G16,Graduate Survey,Q16 How well does the program's curriculum align with workforce preparation or further graduate education?,Q16,0,2,6,14,10,32, 4.00 ,Q16,G16,VERY POORLY,POORLY,NEUTRAL,WELL,VERY WELL
-G17,Graduate Survey,Q17 How would you rate the academic rigor of the program's curriculum?,Q17,0,2,8,10,12,32, 4.00 ,Q17,G17,NOT RIGOROUS AT ALL,SLIGHTLY RIGOROUS,MODERATELY RIGOROUS,VERY RIGOROUS,EXTREMELY RIGOROUS
-G18,Graduate Survey,Q18 How would you rate the level of engagement the curriculum fosters among students?,Q18,1,2,11,15,11,32, 4.78 ,Q18,G18,VERY DISENGAGING,SOMEWHAT DISENGAGING,NEUTRAL,SOMEWHAT ENGAGING,VERY ENGAGING
-G19,Graduate Survey,Q19 How likely are you to suggest changes to the required coursework in the program?,Q19,3,2,11,7,9,32, 3.53 ,Q19,G19,VERY UNLIKELY,SOMEWHAT UNLIKELY,NEITHER LIKELY NOR UNLIKELY,SOMEWHAT LIKELY,VERY LIKELY
-G20,Graduate Survey,Q20 How well do the graduate courses prepare you for comprehensive exams?,Q20,0,2,6,5,19,32, 4.28 ,Q20,G20,VERY POORLY,POORLY,NEUTRAL,WELL,VERY WELL
-G21,Graduate Survey,Q21 How likely are you to suggest expanding the variety of elective courses offered in the program?,Q21,0,1,6,11,14,32, 4.19 ,Q21,G21,VERY UNLIKELY,SOMEWHAT UNLIKELY,NEITHER LIKELY NOR UNLIKELY,SOMEWHAT LIKELY,VERY LIKELY
-G22,Graduate Survey,Q22 How relevant do you find the course content to your career or academic goals?,Q22,1,1,7,15,8,32, 3.88 ,Q22,G22,VERY IRRELEVANT,SOMEWHAT IRRELEVANT,NEUTRAL,SOMEWHAT RELEVANT,VERY RELEVANT
-G23,Graduate Survey,Q23 How often do you feel that coursework assignments and assessments reflect real-world applications in your field?,Q23,1,1,7,15,8,32, 3.88 ,Q23,G23,NEVER,RARELY,OCCASIONALLY,OFTEN,VERY OFTEN
-G24,Graduate Survey,Q24 How effectively does the program foster collaboration and networking opportunities?,Q24,0,7,10,6,9,32, 3.53 ,Q24,G24,NOT EFFECTIVELY AT ALL,NOT VERY EFFECTIVELY,SOMEWHAT EFFECTIVELY,VERY EFFECTIVELY,EXTREMELY EFFECTIVELY
-G25,Graduate Survey,"Q25 How satisfied are you with the opportunities for internships, practicums, or other hands-on experiences?",Q25,3,7,12,3,7,32, 3.13 ,Q25,G25,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
-A1,Alumni Survey,Q1 How satisfied were you with the overall quality of the graduate program?,Q1,0,0,1,2,2,5, 4.20 ,Q1,A1,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
-A2,Alumni Survey,Q2 How well did the program meet your academic expectations?,Q2,0,1,3,1,0,5, 3.00 ,Q2,A2,DID NOT MEET EXPECTATIONS,PARTIALLY MET EXPECTATIONS,MET EXPECTATIONS,EXCEEDED EXPECTATIONS,
-A3,Alumni Survey,Q3 How would you rate the faculty support and mentorship you received during your time in the program?,Q3,0,1,1,1,2,5, 3.80 ,Q3,A3,VERY POOR,POOR,AVERAGE,GOOD,EXCELLENT
-A4,Alumni Survey,Q4 How satisfied were you with the research opportunities provided during your time in the program?,Q4,1,0,1,2,1,5, 3.40 ,Q4,A4,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
-A5,Alumni Survey,Q5 How satisfied were you with the teaching opportunities provided during your time in the program?,Q5,0,0,0,1,4,5, 4.80 ,Q5,A5,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
-A6,Alumni Survey,Q6 How would you rate the sense of community among students and faculty during your studies?,Q6,0,1,0,3,1,5, 3.80 ,Q6,A6,VERY WEAK,WEAK,NEUTRAL,STRONG,VERY STRONG
-A7,Alumni Survey,Q7 How well did the program support your mental health and well-being?,Q7,0,0,2,2,1,5, 3.80 ,Q7,A7,VERY POORLY,POORLY,NEUTRAL,WELL,VERY WELL
-A8,Alumni Survey,Q8 How well did the program prepare you for your current career or further academic pursuits?,Q8,0,1,0,3,1,5, 3.80 ,Q8,A8,VERY POORLY,POORLY,NEUTRAL,WELL,VERY WELL
-A9,Alumni Survey,Q9 How relevant was the curriculum to your professional or academic goals after graduation?,Q9,0,1,0,1,3,5, 4.20 ,Q9,A9,VERY IRRELEVANT,SOMEWHAT IRRELEVANT,NEUTRAL,SOMEWHAT RELEVANT,VERY RELEVANT
-A10,Alumni Survey,Q10 How useful were the skills you developed in the program for your current job or academic work?,Q10,0,0,1,1,3,5, 4.40 ,Q10,A10,NOT USEFUL AT ALL,NOT VERY USEFUL,SOMEWHAT USEFUL,VERY USEFUL,EXTREMELY USEFUL
-A11,Alumni Survey,Q11 Did the program provide adequate networking opportunities for you to connect with professionals in your field?,Q11,0,1,1,2,1,5, 3.60 ,Q11,A11,"NO, NOT AT ALL",NOT REALLY,NEUTRAL,"YES, TO SOME EXTENT","YES, DEFINITELY"
-A12,Alumni Survey,Q12 How well did the program prepare you for real-world applications in your field?,Q12,0,1,1,2,1,5, 3.60 ,Q12,A12,NOT WELL AT ALL,NOT VERY WELL,SOMEWHAT WELL,VERY WELL,EXTREMELY WELL
-A13,Alumni Survey,Q13 How likely are you to recommend this program to someone considering graduate studies in economics?,Q13,0,0,1,2,2,5, 4.20 ,Q13,A13,VERY UNLIKELY,SOMEWHAT UNLIKELY,NEUTRAL,SOMEWHAT LIKELY,VERY LIKELY
-A14,Alumni Survey,Q14 How would you rate the academic rigor of the program's coursework in preparing you for your post-graduate endeavors?,Q14,0,1,1,2,1,5, 3.60 ,Q14,A14,NOT RIGOROUS AT ALL,SLIGHTLY RIGOROUS,MODERATELY RIGOROUS,VERY RIGOROUS,EXTREMELY RIGOROUS
-A15,Alumni Survey,Q15 How well did the program's curriculum align with the skills and knowledge needed for your current career or studies?,Q15,1,0,0,3,1,5, 3.60 ,Q15,A15,VERY POORLY,POORLY,NEUTRAL,WELL,VERY WELL
-A16,Alumni Survey,Q16 How satisfied were you with the opportunities for interdisciplinary studies or collaboration with other departments?,Q16,1,1,2,0,1,5, 2.80 ,Q16,A16,VERY DISSATISFIED,DISSATISFIED,NEUTRAL,SATISFIED,VERY SATISFIED
+﻿,Graduate Survey Questions,,,,,,
+,,,,,,,
+1,Q1 How engaged do you feel with your coursework and academic activities?,,,,,,
+G1,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,5,7,19,32
+,Percentage,0%,3%,16%,22%,59%,100%
+,,,,,,,
+,,,,,,,
+2,Q2 How likely are you to feel that you receive the support you need to succeed in your coursework and academic activities?,,,,,,
+G2,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,0,4,13,14,32
+,Percentage,3%,0%,13%,41%,44%,100%
+,,,,,,,
+,,,,,,,
+3,Q3 How likely are you to feel supported by your faculty and peers in the program?,,,,,,
+G3,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,0,3,8,20,32
+,Percentage,3%,0%,9%,25%,63%,100%
+,,,,,,,
+,,,,,,,
+4,Q4 How would you rate the program's inclusivity and sense of belonging?,,,,,,
+G4,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,2,7,22,32
+,Percentage,0%,3%,6%,22%,69%,100%
+,,,,,,,
+,,,,,,,
+5,Q5 How would you rate your access to health and wellness resources?,,,,,,
+G5,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,4,11,11,5,32
+,Percentage,3%,13%,34%,34%,16%,100%
+,,,,,,,
+,,,,,,,
+6,Q6 How often do you feel supported in publishing scholarly works or presenting your work in conferences?,,,,,,
+G6,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,3,12,8,8,31
+,Percentage,0%,10%,39%,26%,26%,100%
+,,,,,,,
+,,,,,,,
+7,Q7 How likely are you to feel supported in developing scholarly practices in this program?,,,,,,
+G7,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,3,2,13,13,32
+,Percentage,3%,9%,6%,41%,41%,100%
+,,,,,,,
+,,,,,,,
+8,Q8 How satisfied are you with your academic success within the program?,,,,,,
+G8,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,2,5,8,16,32
+,Percentage,3%,6%,16%,25%,50%,100%
+,,,,,,,
+,,,,,,,
+9,Q9 How prepared do you feel for the workforce or further education as a result of the program?,,,,,,
+G9,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,0,8,13,10,31
+,Percentage,0%,0%,26%,42%,32%,100%
+,,,,,,,
+,,,,,,,
+10,Q10 How manageable do you find the time-to-degree requirements and expectations?,,,,,,
+G10,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,2,10,9,11,32
+,Percentage,0%,6%,31%,28%,34%,100%
+,,,,,,,
+,,,,,,,
+11,"Q11 How satisfied are you with the availability of financial aid, scholarships, or assistantships?",,,,,,
+G11,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,6,7,4,14,31
+,Percentage,0%,19%,23%,13%,45%,100%
+,,,,,,,
+,,,,,,,
+12,Q12 How would you rate your access to faculty mentorship and guidance throughout the program?,,,,,,
+G12,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,6,9,16,32
+,Percentage,0%,3%,19%,28%,50%,100%
+,,,,,,,
+,,,,,,,
+13,Q13 How often do you feel included in departmental decision-making or activities?,,,,,,
+G13,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,3,3,7,8,11,32
+,Percentage,9%,9%,22%,25%,34%,100%
+,,,,,,,
+,,,,,,,
+14,Q14 How would you rate the balance between academic workload and personal life?,,,,,,
+G14,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,5,7,7,7,6,32
+,Percentage,16%,22%,22%,22%,19%,100%
+,,,,,,,
+,,,,,,,
+15,Q15 How frequently do you face challenges that affect the time it takes to complete your degree requirements?,,,,,,
+G15,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,2,6,12,8,4,32
+,Percentage,6%,19%,38%,25%,13%,100%
+,,,,,,,
+,,,,,,,
+16,Q16 How well does the program's curriculum align with workforce preparation or further graduate education?,,,,,,
+G16,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,2,6,14,10,32
+,Percentage,0%,6%,19%,44%,31%,100%
+,,,,,,,
+,,,,,,,
+17,Q17 How would you rate the academic rigor of the program's curriculum?,,,,,,
+G17,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,2,8,10,12,32
+,Percentage,0%,6%,25%,31%,38%,100%
+,,,,,,,
+,,,,,,,
+18,Q18 How would you rate the level of engagement the curriculum fosters among students?,,,,,,
+G18,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,2,11,15,11,40
+,Percentage,3%,5%,28%,38%,28%,100%
+,,,,,,,
+,,,,,,,
+19,Q19 How likely are you to suggest changes to the required coursework in the program?,,,,,,
+G19,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,3,2,11,7,9,32
+,Percentage,9%,6%,34%,22%,28%,100%
+,,,,,,,
+,,,,,,,
+20,Q20 How well do the graduate courses prepare you for comprehensive exams?,,,,,,
+G20,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,2,6,5,19,32
+,Percentage,0%,6%,19%,16%,59%,100%
+,,,,,,,
+,,,,,,,
+21,Q21 How likely are you to suggest expanding the variety of elective courses offered in the program?,,,,,,
+G21,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,6,11,14,32
+,Percentage,0%,3%,19%,34%,44%,100%
+,,,,,,,
+,,,,,,,
+22,Q22 How relevant do you find the course content to your career or academic goals?,,,,,,
+G22,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,1,7,15,8,32
+,Percentage,3%,3%,22%,47%,25%,100%
+,,,,,,,
+,,,,,,,
+23,Q23 How often do you feel that coursework assignments and assessments reflect real-world applications in your field?,,,,,,
+G23,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,1,7,15,8,32
+,Percentage,3%,3%,22%,47%,25%,100%
+,,,,,,,
+,,,,,,,
+24,Q24 How effectively does the program foster collaboration and networking opportunities?,,,,,,
+G24,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,7,10,6,9,32
+,Percentage,0%,22%,31%,19%,28%,100%
+,,,,,,,
+,,,,,,,
+25,"Q25 How satisfied are you with the opportunities for internships, practicums, or other hands-on experiences?",,,,,,
+G25,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,3,7,12,3,7,32
+,Percentage,9%,22%,38%,9%,22%,100%
+,,,,,,,
+,,,,,,,
+,Alumni Survey,,,,,,
+,,,,,,,
+1,Q1 How satisfied were you with the overall quality of the graduate program?,,,,,,
+A1,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,0,1,2,2,5
+,Percentage,0%,0%,20%,40%,40%,100%
+,,,,,,,
+,,,,,,,
+2,Q2 How well did the program meet your academic expectations?,,,,,,
+A2,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,3,1,0,5
+,Percentage,0%,20%,60%,20%,0%,100%
+,,,,,,,
+,,,,,,,
+3,Q3 How would you rate the faculty support and mentorship you received during your time in the program?,,,,,,
+A3,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,1,1,2,5
+,Percentage,0%,20%,20%,20%,40%,100%
+,,,,,,,
+,,,,,,,
+4,Q4 How satisfied were you with the research opportunities provided during your time in the program?,,,,,,
+A4,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,0,1,2,1,5
+,Percentage,20%,0%,20%,40%,20%,100%
+,,,,,,,
+,,,,,,,
+5,Q5 How satisfied were you with the teaching opportunities provided during your time in the program?,,,,,,
+A5,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,0,0,1,4,5
+,Percentage,0%,0%,0%,20%,80%,100%
+,,,,,,,
+,,,,,,,
+6,Q6 How would you rate the sense of community among students and faculty during your studies?,,,,,,
+A6,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,0,3,1,5
+,Percentage,0%,20%,0%,60%,20%,100%
+,,,,,,,
+,,,,,,,
+7,Q7 How well did the program support your mental health and well-being?,,,,,,
+A7,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,0,2,2,1,5
+,Percentage,0%,0%,40%,40%,20%,100%
+,,,,,,,
+,,,,,,,
+8,Q8 How well did the program prepare you for your current career or further academic pursuits?,,,,,,
+A8,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,0,3,1,5
+,Percentage,0%,20%,0%,60%,20%,100%
+,,,,,,,
+,,,,,,,
+9,Q9 How relevant was the curriculum to your professional or academic goals after graduation?,,,,,,
+A9,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,0,1,3,5
+,Percentage,0%,20%,0%,20%,60%,100%
+,,,,,,,
+,,,,,,,
+10,Q10 How useful were the skills you developed in the program for your current job or academic work?,,,,,,
+A10,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,0,1,1,3,5
+,Percentage,0%,0%,20%,20%,60%,100%
+,,,,,,,
+,,,,,,,
+11,Q11 Did the program provide adequate networking opportunities for you to connect with professionals in your field?,,,,,,
+A11,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,1,2,1,5
+,Percentage,0%,20%,20%,40%,20%,100%
+,,,,,,,
+,,,,,,,
+12,Q12 How well did the program prepare you for real-world applications in your field?,,,,,,
+A12,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,1,2,1,5
+,Percentage,0%,20%,20%,40%,20%,100%
+,,,,,,,
+,,,,,,,
+13,Q13 How likely are you to recommend this program to someone considering graduate studies in economics?,,,,,,
+A13,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,0,1,2,2,5
+,Percentage,0%,0%,20%,40%,40%,100%
+,,,,,,,
+,,,,,,,
+14,Q14 How would you rate the academic rigor of the program's coursework in preparing you for your post-graduate endeavors?,,,,,,
+A14,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,0,1,1,2,1,5
+,Percentage,0%,20%,20%,40%,20%,100%
+,,,,,,,
+,,,,,,,
+15,Q15 How well did the program's curriculum align with the skills and knowledge needed for your current career or studies?,,,,,,
+A15,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,0,0,3,1,5
+,Percentage,20%,0%,0%,60%,20%,100%
+,,,,,,,
+,,,,,,,
+16,Q16 How satisfied were you with the opportunities for interdisciplinary studies or collaboration with other departments?,,,,,,
+A16,,,,,,,
+,Answers,No Engagement,Low Engagement,Neutral,Moderately Engaged,Highly Engaged,Total
+,Number,1,1,2,0,1,5
+,Percentage,20%,20%,40%,0%,20%,100%
